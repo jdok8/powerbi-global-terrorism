@@ -49,6 +49,8 @@ Copyright University of Maryland 2018.
 
 Open the `.pbix` file using Power BI Desktop.
 
+You can download the dataset [here](https://drive.google.com/file/d/1-0qeBGL89B6axPmCkNSYhuLYwZp-WuWt/view?usp=sharing).
+
 **3. Explore Reports**
 
 Navigate through the different pages to explore the interactive visualizations.Use slicers, filters, and dropdowns to customize the analysis based on your preferences.
