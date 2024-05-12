@@ -78,7 +78,7 @@ The average number of individuals killed per terrorist attack event:
         COUNTA('terrorism_fact'[eventid])
     )
 
-The total number of casualties (killed and wounded) across all terrorist attacks in the dataset.:
+The total number of casualties (killed and wounded) across all terrorist attacks in the dataset:
 
     casualties = SUMX(terrorism_fact, terrorism_fact[nkill] + terrorism_fact[nwound])
 
